@@ -1,0 +1,26 @@
+{
+  "name": "Aula1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Exercicio1.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbaraavs/Revisao_JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barbaraavs/Revisao_JS/issues"
+  },
+  "homepage": "https://github.com/barbaraavs/Revisao_JS#readme"
+}
